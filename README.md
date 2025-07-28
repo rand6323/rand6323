@@ -63,3 +63,9 @@ Pythonで7zが扱えることを最近知ったので、ZIPと合わせて作成
 #### meiro_vba
 迷路生成プログラムは過去に作ったことがあるが、セルの罫線を使うExcelならではの方法を行った\
 大きい迷路(100×100以上)も生成可能
+
+### androidstudio
+
+#### androidstudio-android-matrix
+AndroidStudioでPythonスクリプトが扱えると知ったので、Chaquopyをテスト\
+行列にしたのは、JavaよりもPythonスクリプトだと簡単に記述できるから
