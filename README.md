@@ -68,4 +68,4 @@ Pythonで7zが扱えることを最近知ったので、ZIPと合わせて作成
 
 #### androidstudio-android-matrix
 AndroidStudioでPythonスクリプトが扱えると知ったので、Chaquopyをテスト\
-行列にしたのは、JavaよりもPythonスクリプトだと簡単に記述できるから
+行列にしたのは、Kotlin,JavaよりもPythonスクリプトだと簡単に記述できるから
