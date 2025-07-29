@@ -27,49 +27,50 @@ Here are some ideas to get you started:
 ### Python
 
 #### gmail-email-sender
-GoogleのAPIを何か使ってみようと思い作成\
+GoogleのAPIを何か使ってみようと思い作成しました。\
 Googleカレンダーに自動で登録を行うコードも書いたのでそのうち上げたい
 
 #### file_organizer
-ファイル整理を行うときに手作業だと時間がかかることもある作業を自動化できるよう作成\
-Tkinterの練習も兼ねて行った
+ファイル整理を行うときに手作業だと時間がかかることもある作業を自動化できるよう作成しました。\
+Tkinterの練習も兼ねています。
 
 #### face_recognition
-コード自体は前にネットの記事やChatGPTを参考にだいたい作っていたが、GitやREADME.mdの書き方練習とした
+コード自体は前にネットの記事やChatGPTを参考にだいたい作っていました。\
+GitやREADME.mdの書き方練習としました。
 
 #### Ollama-voice-app
-OllamaだとOpen WebUIが使えるが、それよりもシンプルな画面で使えたらいいなと思い作成\
-さらに、VOICEVOXによる音声作成と、ついでに画面をLINE風にしてみた
+OllamaだとOpen WebUIが使えますが、それよりもシンプルな画面で使えたらいいなと思い作成しました。\
+さらに、VOICEVOXによる音声作成と、ついでに画面をLINE風にしてみました。
 
 #### image-optimize
-ファイル整理や、Web上に画像を上げるときなど画像のリサイズ圧縮は用途が多く、私用にも使えると思い作成
+ファイル整理や、Web上に画像を上げるときなど画像のリサイズ圧縮は用途が多く、私用にも使えると思い作成しました。
 
 #### ImgCompressor_kivy-android
-上記image-optimizeのAndroid版として作成しようと思い作成\
-Kivyの作り方や、Buildozer、APKファイル作成までを学んだ\
+上記image-optimizeのAndroid版として作成しようと思い作成しました。\
+Kivyの作り方や、Buildozer、APKファイル作成までを学びました。\
 他にも「これスマホでできたら面白そう」なアプリをKivyで作ってみたい
 
 #### compression-files
-Pythonで7zが扱えることを最近知ったので、ZIPと合わせて作成
+Pythonで7zが扱えることを最近知ったので、ZIPと合わせて作成しました。
 
 #### text-summary
-文章の要約を行えると便利だと思い作成
-流れで、テキストファイルのPDF化スクリプトも作成
+文章の要約を行えると便利だと思い作成しました。\
+流れで、テキストファイルのPDF化スクリプトも作成しました。
 
 ### Java
 
 #### NumberplaceGeneratorProject
-ナンバープレース(ナンプレ、数独とも)の問題を自動で解けるのではないかと思い作成\
+ナンバープレース(ナンプレ、数独とも)の問題を自動で解けるのではないかと思い作成しました。\
 自動問題生成も可能なので、問題生成→答え合わせの流れでアプリ化もできそう
 
 ### VBA
 
 #### meiro_vba
-迷路生成プログラムは過去に作ったことがあるが、セルの罫線を使うExcelならではの方法を行った\
-大きい迷路(100×100以上)も生成可能
+迷路生成プログラムは過去に作ったことがあるが、セルの罫線を使うExcelならではの方法を行いました。\
+大きい迷路(100×100以上)も生成可能です。
 
 ### androidstudio
 
 #### androidstudio-android-matrix
-AndroidStudioでPythonスクリプトが扱えると知ったので、Chaquopyをテスト\
-行列にしたのは、Kotlin,JavaよりもPythonスクリプトだと簡単に記述できるから
+AndroidStudioでPythonが扱えると知ったので、Chaquopyを使ってみました。\
+行列にしたのは、PythonだとNumpyが使用でき、Kotlin,Javaよりも簡単に記述できるからです。
