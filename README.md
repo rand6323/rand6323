@@ -52,6 +52,10 @@ Kivyの作り方や、Buildozer、APKファイル作成までを学んだ\
 #### compression-files
 Pythonで7zが扱えることを最近知ったので、ZIPと合わせて作成
 
+#### text-summary
+文章の要約を行えると便利だと思い作成
+流れで、テキストファイルのPDF化スクリプトも作成
+
 ### Java
 
 #### NumberplaceGeneratorProject
