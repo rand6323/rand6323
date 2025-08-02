@@ -74,3 +74,8 @@ Pythonで7zが扱えることを最近知ったので、ZIPと合わせて作成
 #### androidstudio-android-matrix
 AndroidStudioでPythonが扱えると知ったので、Chaquopyを使ってみました。\
 行列にしたのは、PythonだとNumpyが使用でき、Kotlin,Javaよりも簡単に記述できるからです。
+
+### ollama-voice-app-docker
+Pythonで以前作成したOllama-voice-appを大幅に改良しました。\
+Docker環境で実行できるようにした、ログイン画面やトーク履歴保存等の機能など多数追加したため、\
+以前の更新ではなく新規リポジトリとしました。
